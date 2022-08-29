@@ -1,7 +1,7 @@
 # crawl-most-replayed
-**crawling Most Replayed metadata from Youtube**
+crawling Most Replayed metadata from Youtube
 
-**유투브 "가장 많이 다시 본 장면" 크롤링**
+유투브 "가장 많이 다시 본 장면" 크롤링
 
 ## Tutorial
 ```
